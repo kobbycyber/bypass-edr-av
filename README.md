@@ -1,2 +1,4 @@
 # bypass-edr-av
-POC edr/av bypass with meterpreter
+POC's edr/av bypass with meterpreter
+
+In this project i will test av/edr solutions.
