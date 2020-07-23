@@ -1,1 +1,1 @@
-POC Solarwindsmsp bypass with meterpreter
+POC Solarwindsmsp edr bypass with meterpreter
