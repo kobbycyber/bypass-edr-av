@@ -1,3 +1,4 @@
 POC Windows Defender bypass with meterpreter.
 
-I dont want to make pic of that becouse its so easy to bypass))
+I didnt want to make pic of that becouse its so easy to bypass))
+But onlu for POC...
