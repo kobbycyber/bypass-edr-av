@@ -1,1 +1,1 @@
-POC Symantec EDR bypass with meterpreter
+POC Symantec EDR latest version bypass with meterpreter
